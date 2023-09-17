@@ -1,0 +1,30 @@
+{
+    "META": {
+      "repoName": "IPA Library Repo",
+      "repoIcon": "https://github.com/Kitzoon/IOSRepo/blob/main/icon.png?raw=true"
+    },
+    "Games": [
+      {
+        "name": "Grand Theft Auto: San Andreas",
+        "version": "2.6.0",
+        "down": "https://ia801508.us.archive.org/23/items/ipalibrary/gta3sa_2.02.11_LeTi.ipa",
+        "category": "Games with Mods",
+        "changelog": "This has CLEO for iOS pre-installed, so you can download mods and play GTA at 60 FPS.",
+        "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+        "bundleID": "com.rockstargames.gtasa",
+        "appstore": "com.rockstargames.gtasa",
+        "debs": [
+            "https://raw.githubusercontent.com/Kitzoon/IOSRepo/main/CLEO.dylib"
+        ]
+      },
+      {
+        "name": "Flappy Bird",
+        "version": "0.281.3",
+        "down": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+        "category": "Remade Games",
+        "description": "This is an extremely close clone to the original Flappy Bird by Dong Nguyen.",
+        "bundleID": "org.brandonplank.flappybird",
+        "appstore": "org.brandonplank.flappybird"
+      },
+    ]
+  }
