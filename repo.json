@@ -7,12 +7,14 @@
       {
         "name": "Grand Theft Auto: San Andreas",
         "version": "2.6.0",
+        "icon": "https://play-lh.googleusercontent.com/5g1m03rbX8OVFp7pZr7bxAfa8NbC2ZovxT0R_js-DUMl-4ai030FSVjf3NMHfjxJcw",
         "down": "https://ia801508.us.archive.org/23/items/ipalibrary/gta3sa_2.02.11_LeTi.ipa",
         "category": "Games with Mods",
         "changelog": "This has CLEO for iOS pre-installed, so you can download mods and play GTA at 60 FPS.",
         "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
         "bundleID": "com.rockstargames.gtasa",
         "appstore": "com.rockstargames.gtasa",
+        "enableBackup": true,
         "debs": [
             "https://raw.githubusercontent.com/Kitzoon/IOSRepo/main/CLEO.dylib"
         ]
@@ -20,11 +22,24 @@
       {
         "name": "Flappy Bird",
         "version": "0.281.3",
+        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Flappy_Bird_icon.png/220px-Flappy_Bird_icon.png",
         "down": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
         "category": "Remade Games",
         "description": "This is an extremely close clone to the original Flappy Bird by Dong Nguyen.",
-        "bundleID": "org.brandonplank.flappybird",
-        "appstore": "org.brandonplank.flappybird"
+        "bundleID": "com.0F50BE19-7F26-488F-B52B-E18B1120975B",
+        "appstore": "com.0F50BE19-7F26-488F-B52B-E18B1120975B",
+        "enableBackup": true
+      },
+      {
+        "name": "True Skate",
+        "version": "1.5.68",
+        "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/cd/ce/1c/cdce1cb5-1790-8ad1-c935-7df17b204817/source/512x512bb.jpg",
+        "down": "https://cdn.discordapp.com/attachments/1033064613916454942/1153057231747678289/True_Skate.ipa",
+        "category": "Games",
+        "description": "True Skate is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.",
+        "bundleID": "com.trueaxis.skate",
+        "appstore": "com.trueaxis.skate",
+        "enableBackup": true
       }
     ]
 }
