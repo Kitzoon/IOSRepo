@@ -25,6 +25,6 @@
         "description": "This is an extremely close clone to the original Flappy Bird by Dong Nguyen.",
         "bundleID": "org.brandonplank.flappybird",
         "appstore": "org.brandonplank.flappybird"
-      },
+      }
     ]
-  }
+}
