@@ -1,7 +1,7 @@
 {
     "META": {
       "repoName": "IPA Library Repo",
-      "repoIcon": "https://github.com/Kitzoon/IOSRepo/blob/main/icon.png?raw=true"
+      "repoIcon": "https://raw.githubusercontent.com/Kitzoon/IOSRepo/main/icon.png"
     },
     "Games": [
       {
